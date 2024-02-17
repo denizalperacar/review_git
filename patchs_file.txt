@@ -1,0 +1,14 @@
+diff --git a/include/math.h b/include/math.h
+index e4940f9..b4aabaa 100644
+--- a/include/math.h
++++ b/include/math.h
+@@ -2,6 +2,7 @@
+ #define MATH_H
+ 
+ // added a new line
+-// added another line 2
+-// will not result in conflict
++// added another line 2 55
++// will not result in conf
++// new line added
+ #endif
